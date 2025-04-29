@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: a92479d7b46b2f14c9a848d779b962ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7082953358533684655
+    second: While_Line_0
+  - first:
+      213: -5187684681450334083
+    second: While_Line_1
+  - first:
+      213: 2990668510150663548
+    second: While_Line_2
+  - first:
+      213: -6592295973415350047
+    second: While_Line_3
+  - first:
+      213: -3304815532455784440
+    second: While_Line_4
+  - first:
+      213: -5813581176887435542
+    second: While_Line_5
+  - first:
+      213: -6147604964911591367
+    second: While_Line_6
+  - first:
+      213: 348621954153716526
+    second: While_Line_7
+  - first:
+      213: 1113503547204105377
+    second: While_Line_8
+  - first:
+      213: 8969827873646238434
+    second: While_Line_9
+  - first:
+      213: 1825024565426436701
+    second: While_Line_10
+  - first:
+      213: 3270286980899243168
+    second: While_Line_11
+  - first:
+      213: 6489396588160284403
+    second: While_Line_12
+  - first:
+      213: -8872270596043363150
+    second: While_Line_13
+  - first:
+      213: 7294201242856556994
+    second: While_Line_14
+  - first:
+      213: -8783128241137374313
+    second: While_Line_15
+  - first:
+      213: 3521198201064863875
+    second: While_Line_16
+  - first:
+      213: 6163552034511123869
+    second: While_Line_17
+  - first:
+      213: 7573177081605886438
+    second: While_Line_18
+  - first:
+      213: 3242325955008067844
+    second: While_Line_19
+  - first:
+      213: 7895655969119874944
+    second: While_Line_20
+  - first:
+      213: 7970670987691822336
+    second: While_Line_21
+  - first:
+      213: 48589267036443625
+    second: While_Line_22
+  - first:
+      213: 493115667164023805
+    second: While_Line_23
+  - first:
+      213: 2455104471327611745
+    second: While_Line_24
+  - first:
+      213: 7182255560087142497
+    second: While_Line_25
+  - first:
+      213: -3932376192611786872
+    second: While_Line_26
+  - first:
+      213: -7032348776448646963
+    second: While_Line_27
+  - first:
+      213: -7906344456187540330
+    second: While_Line_28
+  - first:
+      213: -2903584011673435047
+    second: While_Line_29
+  - first:
+      213: -8062533498154946585
+    second: While_Line_30
+  - first:
+      213: -6739527887857523646
+    second: While_Line_31
+  - first:
+      213: 945720458346241607
+    second: While_Line_32
+  - first:
+      213: 1121455017723266018
+    second: While_Line_33
+  - first:
+      213: 407183192013864149
+    second: While_Line_34
+  - first:
+      213: -7881979462931176554
+    second: While_Line_35
+  - first:
+      213: -758531222970876896
+    second: While_Line_36
+  - first:
+      213: -64564313220570558
+    second: While_Line_37
+  - first:
+      213: 5663665084671464544
+    second: While_Line_38
+  - first:
+      213: 4965786714750408164
+    second: While_Line_39
+  - first:
+      213: 1609414833574668644
+    second: While_Line_40
+  - first:
+      213: 8760622107108244343
+    second: While_Line_41
+  - first:
+      213: -5393609876118520952
+    second: While_Line_42
+  - first:
+      213: 8753509299336893573
+    second: While_Line_43
+  - first:
+      213: 3338816947649107769
+    second: While_Line_44
+  - first:
+      213: 219914566962175113
+    second: While_Line_45
+  - first:
+      213: 2308739981220797260
+    second: While_Line_46
+  - first:
+      213: 34974618966658800
+    second: While_Line_47
+  - first:
+      213: -4168050501352105625
+    second: While_Line_48
+  - first:
+      213: 1972100275792937234
+    second: While_Line_49
+  - first:
+      213: 6755583240752655800
+    second: While_Line_50
+  - first:
+      213: -849857523540338140
+    second: While_Line_51
+  - first:
+      213: -1727578516095494106
+    second: While_Line_52
+  - first:
+      213: -285340079216672394
+    second: While_Line_53
+  - first:
+      213: 7811167011415078972
+    second: While_Line_54
+  - first:
+      213: 6290193675759952743
+    second: While_Line_55
+  - first:
+      213: -362362497269546410
+    second: While_Line_56
+  - first:
+      213: -9106705131274026802
+    second: While_Line_57
+  - first:
+      213: -86385443036466819
+    second: While_Line_58
+  - first:
+      213: -2803919820527005863
+    second: While_Line_59
+  - first:
+      213: 5743428480191983872
+    second: While_Line_60
+  - first:
+      213: -2919155218620684584
+    second: While_Line_61
+  - first:
+      213: -4256945407344859393
+    second: While_Line_62
+  - first:
+      213: 863437494449366164
+    second: While_Line_63
+  - first:
+      213: -8025979356963887674
+    second: While_Line_64
+  - first:
+      213: -1220250857275974800
+    second: While_Line_65
+  - first:
+      213: 1163254721510978625
+    second: While_Line_66
+  - first:
+      213: -2341125666408876317
+    second: While_Line_67
+  - first:
+      213: -8221160965208950529
+    second: While_Line_68
+  - first:
+      213: 9030127841494784712
+    second: While_Line_69
+  - first:
+      213: 797223716362170355
+    second: While_Line_70
+  - first:
+      213: -4845450251405846929
+    second: While_Line_71
+  - first:
+      213: 7880335895372449185
+    second: While_Line_72
+  - first:
+      213: -7995801736800817919
+    second: While_Line_73
+  - first:
+      213: 1719854433437308617
+    second: While_Line_74
+  - first:
+      213: -45580127386308328
+    second: While_Line_75
+  - first:
+      213: -1863883311437372051
+    second: While_Line_76
+  - first:
+      213: -4729393799419596322
+    second: While_Line_77
+  - first:
+      213: 1676326453570596869
+    second: While_Line_78
+  - first:
+      213: -8999409076106806821
+    second: While_Line_79
+  - first:
+      213: -5108166863586251759
+    second: While_Line_80
+  - first:
+      213: 8159728280992843500
+    second: While_Line_81
+  - first:
+      213: 1518505692512552312
+    second: While_Line_82
+  - first:
+      213: 1869425188060616515
+    second: While_Line_83
+  - first:
+      213: -1905410966408452937
+    second: While_Line_84
+  - first:
+      213: -4628811756346759743
+    second: While_Line_85
+  - first:
+      213: 7814306632924424273
+    second: While_Line_86
+  - first:
+      213: -4787355612358528690
+    second: While_Line_87
+  - first:
+      213: -6833598823045476122
+    second: While_Line_88
+  - first:
+      213: 5327891157653178596
+    second: While_Line_89
+  - first:
+      213: -5656504219217722701
+    second: While_Line_90
+  - first:
+      213: -708357302985881720
+    second: While_Line_91
+  - first:
+      213: 2728573214114494657
+    second: While_Line_92
+  - first:
+      213: -55138818428004704
+    second: While_Line_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: While_Line_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 228
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15290ff827b44bd90800000000000000
+      internalID: -7082953358533684655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 86
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78da6b8444a108b0800000000000000
+      internalID: -5187684681450334083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 59
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d1a7c2a2df08920800000000000000
+      internalID: 2990668510150663548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 970
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0175a5db57384a0800000000000000
+      internalID: -6592295973415350047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 942
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80097cb68cfe222d0800000000000000
+      internalID: -3304815532455784440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 832
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee1ab6a8b2025fa0800000000000000
+      internalID: -5813581176887435542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 770
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93054071bd15faaa0800000000000000
+      internalID: -6147604964911591367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 718
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b1c3af1dd86d400800000000000000
+      internalID: 348621954153716526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 712
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4fc3b9395f37f00800000000000000
+      internalID: 1113503547204105377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 702
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ead4194dea3b7c70800000000000000
+      internalID: 8969827873646238434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 683
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aba904c2ac35910800000000000000
+      internalID: 1825024565426436701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 670
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48512bea4626d20800000000000000
+      internalID: 3270286980899243168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6fceb80d7fe0a50800000000000000
+      internalID: 6489396588160284403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 606
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc21b376ec5fd480800000000000000
+      internalID: -8872270596043363150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 534
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98da052653a3560800000000000000
+      internalID: 7294201242856556994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 506
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b2e42566f0c1680800000000000000
+      internalID: -8783128241137374313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 478
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38837369b1fcdd030800000000000000
+      internalID: 3521198201064863875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 443
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95fba36be5598550800000000000000
+      internalID: 6163552034511123869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 412
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e19f3a6e64591960800000000000000
+      internalID: 7573177081605886438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 398
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409f84a074e0ffc20800000000000000
+      internalID: 3242325955008067844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f251c5541039d60800000000000000
+      internalID: 7895655969119874944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 302
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d02ea68038d9e60800000000000000
+      internalID: 7970670987691822336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 262
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39a915eaf9ca000800000000000000
+      internalID: 48589267036443625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 221
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbcd7e2616e7d600800000000000000
+      internalID: 493115667164023805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b94fb4288421220800000000000000
+      internalID: 2455104471327611745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1608111f06f7ca360800000000000000
+      internalID: 7182255560087142497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fdb2cffa46d69c0800000000000000
+      internalID: -3932376192611786872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 148
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0202bfb04186e90800000000000000
+      internalID: -7032348776448646963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c00115b95074290800000000000000
+      internalID: -7906344456187540330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 118
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95483b8a9b564b7d0800000000000000
+      internalID: -2903584011673435047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef69c420802c1090800000000000000
+      internalID: -8062533498154946585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 46
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e962f7136872a0800000000000000
+      internalID: -6739527887857523646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e1c880fbfdf1d00800000000000000
+      internalID: 945720458346241607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e389fa9565309f00800000000000000
+      internalID: 1121455017723266018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 846
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcfe7ea4fa96a500800000000000000
+      internalID: 407183192013864149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 438
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693201160759d9290800000000000000
+      internalID: -7881979462931176554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 958
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c37cf1fd72975f0800000000000000
+      internalID: -758531222970876896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 826
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2422255691f9a1ff0800000000000000
+      internalID: -64564313220570558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 746
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06410aa1361699e40800000000000000
+      internalID: 5663665084671464544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 738
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e55d0b05b40ae440800000000000000
+      internalID: 4965786714750408164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 726
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469667b934ac55610800000000000000
+      internalID: 1609414833574668644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 632
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bfe91046bf39970800000000000000
+      internalID: 8760622107108244343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 598
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bbaece46c0625b0800000000000000
+      internalID: -5393609876118520952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 590
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584dd056456ba7970800000000000000
+      internalID: 8753509299336893573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 430
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937dda6f25cd55e20800000000000000
+      internalID: 3338816947649107769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 389
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cd6bc222b4d0300800000000000000
+      internalID: 219914566962175113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 338
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b586bd7ca4a0020800000000000000
+      internalID: 2308739981220797260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe89ab0b314c7000800000000000000
+      internalID: 34974618966658800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769d40df62c1826c0800000000000000
+      internalID: -4168050501352105625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211861090ce4e5b10800000000000000
+      internalID: 1972100275792937234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 379
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde4a33a27a0cd50800000000000000
+      internalID: 6755583240752655800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 753
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a5fa7c513b434f0800000000000000
+      internalID: -849857523540338140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_52
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 777
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62818822e786608e0800000000000000
+      internalID: -1727578516095494106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_53
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 536
+        width: 419
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671cb12b5b44a0cf0800000000000000
+      internalID: -285340079216672394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_54
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 530
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3835a4f207d66c60800000000000000
+      internalID: 7811167011415078972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_55
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 768
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a41c32d14b4750800000000000000
+      internalID: 6290193675759952743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_56
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 738
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65243568a31a8faf0800000000000000
+      internalID: -362362497269546410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_57
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 432
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec04f28beeb7e9180800000000000000
+      internalID: -9106705131274026802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_58
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 237
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71fb02b5e81dcef0800000000000000
+      internalID: -86385443036466819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_59
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 169
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f8fce67c97619d0800000000000000
+      internalID: -2803919820527005863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_60
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 472
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00174b2d5c1c4bf40800000000000000
+      internalID: 5743428480191983872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_61
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e2e58bc31d77d0800000000000000
+      internalID: -2919155218620684584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_62
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 273
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6aafec4ba4ce4c0800000000000000
+      internalID: -4256945407344859393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_63
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 981
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494686693db8bfb00800000000000000
+      internalID: 863437494449366164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_64
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 816
+        width: 14
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5ac8d5c4efd9090800000000000000
+      internalID: -8025979356963887674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_65
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 959
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b133b7f4cc01fe0800000000000000
+      internalID: -1220250857275974800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_66
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 952
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14435fa8106b42010800000000000000
+      internalID: 1163254721510978625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_67
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 755
+        width: 8
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e636273c96a28fd0800000000000000
+      internalID: -2341125666408876317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_68
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 733
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8b963e8a198ed80800000000000000
+      internalID: -8221160965208950529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_69
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 703
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca59ac9d65715d70800000000000000
+      internalID: 9030127841494784712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_70
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 695
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa8440fbe401b00800000000000000
+      internalID: 797223716362170355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_71
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 539
+        width: 8
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66902c2ba081ccb0800000000000000
+      internalID: -4845450251405846929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_72
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54f6abeb39c5d60800000000000000
+      internalID: 7880335895372449185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_73
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 463
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d29871fa4390190800000000000000
+      internalID: -7995801736800817919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_74
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 400
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6596abe762ed710800000000000000
+      internalID: 1719854433437308617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_75
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 327
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811725a9d111e5ff0800000000000000
+      internalID: -45580127386308328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_76
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 269
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d652ff6e0082226e0800000000000000
+      internalID: -1863883311437372051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_77
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 221
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f8a69561dd5eb0800000000000000
+      internalID: -4729393799419596322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_78
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5007aa82702834710800000000000000
+      internalID: 1676326453570596869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_79
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 175
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd93a3e402dab1380800000000000000
+      internalID: -8999409076106806821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_80
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 125
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c25824d452c19b0800000000000000
+      internalID: -5108166863586251759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_81
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce68944b3ad2d3170800000000000000
+      internalID: 8159728280992843500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_82
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8758e97c1e0d21510800000000000000
+      internalID: 1518505692512552312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_83
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 24
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347558ccd4881f910800000000000000
+      internalID: 1869425188060616515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_84
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4271442de9e85e0800000000000000
+      internalID: -1905410966408452937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_85
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5acca6b3823cfb0800000000000000
+      internalID: -4628811756346759743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_86
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158607d0b7ef17c60800000000000000
+      internalID: 7814306632924424273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_87
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 476
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b5ef5f65ef8db0800000000000000
+      internalID: -4787355612358528690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_88
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 90
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0d8de831e2a21a0800000000000000
+      internalID: -6833598823045476122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_89
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 586
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8ccdd87c870f940800000000000000
+      internalID: 5327891157653178596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_90
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2870fc16f0081b0800000000000000
+      internalID: -5656504219217722701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_91
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887097539c86b26f0800000000000000
+      internalID: -708357302985881720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_92
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b0f2b1e6ddd520800000000000000
+      internalID: 2728573214114494657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: While_Line_93
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 490
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6934a698b1c3ff0800000000000000
+      internalID: -55138818428004704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      While_Line_0: -7082953358533684655
+      While_Line_1: -5187684681450334083
+      While_Line_10: 1825024565426436701
+      While_Line_11: 3270286980899243168
+      While_Line_12: 6489396588160284403
+      While_Line_13: -8872270596043363150
+      While_Line_14: 7294201242856556994
+      While_Line_15: -8783128241137374313
+      While_Line_16: 3521198201064863875
+      While_Line_17: 6163552034511123869
+      While_Line_18: 7573177081605886438
+      While_Line_19: 3242325955008067844
+      While_Line_2: 2990668510150663548
+      While_Line_20: 7895655969119874944
+      While_Line_21: 7970670987691822336
+      While_Line_22: 48589267036443625
+      While_Line_23: 493115667164023805
+      While_Line_24: 2455104471327611745
+      While_Line_25: 7182255560087142497
+      While_Line_26: -3932376192611786872
+      While_Line_27: -7032348776448646963
+      While_Line_28: -7906344456187540330
+      While_Line_29: -2903584011673435047
+      While_Line_3: -6592295973415350047
+      While_Line_30: -8062533498154946585
+      While_Line_31: -6739527887857523646
+      While_Line_32: 945720458346241607
+      While_Line_33: 1121455017723266018
+      While_Line_34: 407183192013864149
+      While_Line_35: -7881979462931176554
+      While_Line_36: -758531222970876896
+      While_Line_37: -64564313220570558
+      While_Line_38: 5663665084671464544
+      While_Line_39: 4965786714750408164
+      While_Line_4: -3304815532455784440
+      While_Line_40: 1609414833574668644
+      While_Line_41: 8760622107108244343
+      While_Line_42: -5393609876118520952
+      While_Line_43: 8753509299336893573
+      While_Line_44: 3338816947649107769
+      While_Line_45: 219914566962175113
+      While_Line_46: 2308739981220797260
+      While_Line_47: 34974618966658800
+      While_Line_48: -4168050501352105625
+      While_Line_49: 1972100275792937234
+      While_Line_5: -5813581176887435542
+      While_Line_50: 6755583240752655800
+      While_Line_51: -849857523540338140
+      While_Line_52: -1727578516095494106
+      While_Line_53: -285340079216672394
+      While_Line_54: 7811167011415078972
+      While_Line_55: 6290193675759952743
+      While_Line_56: -362362497269546410
+      While_Line_57: -9106705131274026802
+      While_Line_58: -86385443036466819
+      While_Line_59: -2803919820527005863
+      While_Line_6: -6147604964911591367
+      While_Line_60: 5743428480191983872
+      While_Line_61: -2919155218620684584
+      While_Line_62: -4256945407344859393
+      While_Line_63: 863437494449366164
+      While_Line_64: -8025979356963887674
+      While_Line_65: -1220250857275974800
+      While_Line_66: 1163254721510978625
+      While_Line_67: -2341125666408876317
+      While_Line_68: -8221160965208950529
+      While_Line_69: 9030127841494784712
+      While_Line_7: 348621954153716526
+      While_Line_70: 797223716362170355
+      While_Line_71: -4845450251405846929
+      While_Line_72: 7880335895372449185
+      While_Line_73: -7995801736800817919
+      While_Line_74: 1719854433437308617
+      While_Line_75: -45580127386308328
+      While_Line_76: -1863883311437372051
+      While_Line_77: -4729393799419596322
+      While_Line_78: 1676326453570596869
+      While_Line_79: -8999409076106806821
+      While_Line_8: 1113503547204105377
+      While_Line_80: -5108166863586251759
+      While_Line_81: 8159728280992843500
+      While_Line_82: 1518505692512552312
+      While_Line_83: 1869425188060616515
+      While_Line_84: -1905410966408452937
+      While_Line_85: -4628811756346759743
+      While_Line_86: 7814306632924424273
+      While_Line_87: -4787355612358528690
+      While_Line_88: -6833598823045476122
+      While_Line_89: 5327891157653178596
+      While_Line_9: 8969827873646238434
+      While_Line_90: -5656504219217722701
+      While_Line_91: -708357302985881720
+      While_Line_92: 2728573214114494657
+      While_Line_93: -55138818428004704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
